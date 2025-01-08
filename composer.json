@@ -3,6 +3,7 @@
     "type": "roundcube-plugin",
     "description": "Plugin to check users logging in from DNSBL lists",
     "license": "GPL-3.0-or-later",
+    "homepage": "http://github.com/nemavi/dnsbl",
     "version": "2.0",
     "authors": [
         {
@@ -18,12 +19,6 @@
             "name": "Firdovsi Ismayilov",
             "email": "firiisi@gmail.com",
             "role": "Lead"
-        }
-    ],
-    "repositories": [
-        {
-            "type": "composer",
-            "url": "https://plugins.roundcube.net"
         }
     ],
     "require": {
