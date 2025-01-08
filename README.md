@@ -19,11 +19,11 @@ This is a Roundcube plugin to check users logging in from DNS Blacklists (DNSBL)
 
 You can install the plugin via Composer by running:
 
-```bash
 composer require roundcube/dnsbl
-**### 2. Install Manual**
 
-**Clone this git to /roundcube_root/plugins/dnsbl**
+### 2. Install Manual
 
-And add dnsbl to main config file plugin activation
+Clone this git to /roundcube_root/plugins/dnsbl
+
+And add dnsbl to main config file plugin activation /roundcube_root/config.inc.php
 **
