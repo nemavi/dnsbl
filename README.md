@@ -1,4 +1,4 @@
-# dnsbl
+# DNSBL
 Plugin to check users logging in from DNSBL lists for Roundcube
 # Roundcube DNSBL Plugin
 
