@@ -1,5 +1,5 @@
 {
-    "name": "roundcube/dnsbl",
+    "name": "nemavi/dnsbl",
     "type": "roundcube-plugin",
     "description": "Plugin to check users logging in from DNSBL lists",
     "license": "GPL-3.0-or-later",
