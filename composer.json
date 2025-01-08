@@ -1,0 +1,34 @@
+{
+    "name": "roundcube/dnsbl",
+    "type": "roundcube-plugin",
+    "description": "Plugin to check users logging in from DNSBL lists",
+    "license": "GPL-3.0-or-later",
+    "version": "2.0",
+    "authors": [
+        {
+            "name": "rosali",
+            "email": "https://www.roundcubeforum.net/index.php?action=profile;u=4932",
+            "role": "Initial Developer"
+        },
+        {
+            "name": "Harka Győző",
+            "email": "carlos@gamma.ttk.pte.hu",
+            "role": "Lead"
+        },
+        {
+            "name": "Firdovsi Ismayilov",
+            "email": "firiisi@gmail.com",
+            "role": "Lead"
+        }
+    ],
+    "repositories": [
+        {
+            "type": "composer",
+            "url": "https://plugins.roundcube.net"
+        }
+    ],
+    "require": {
+        "php": ">=7.3.0",
+        "roundcube/plugin-installer": ">=0.1.3"
+    }
+}
