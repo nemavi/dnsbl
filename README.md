@@ -21,9 +21,9 @@ You can install the plugin via Composer by running:
 
 composer require roundcube/dnsbl
 
-### 2. Install Manual
+#### 2. Install Manually
 
 Clone this git to /roundcube_root/plugins/dnsbl
 
 And add dnsbl to main config file plugin activation /roundcube_root/config.inc.php
-**
+
