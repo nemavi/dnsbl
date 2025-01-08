@@ -27,7 +27,7 @@
         }
     ],
     "require": {
-        "php": ">=7.3.0",
+        "php": ">=8.1.0",
         "roundcube/plugin-installer": ">=0.1.3"
     }
 }
