@@ -19,7 +19,7 @@ This is a Roundcube plugin to check users logging in from DNS Blacklists (DNSBL)
 
 You can install the plugin via Composer by running:
 
-composer require roundcube/dnsbl
+composer require nemavi/dnsbl
 
 #### 2. Install Manually
 
