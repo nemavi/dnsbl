@@ -11,7 +11,6 @@ This is a Roundcube plugin to check users logging in from DNS Blacklists (DNSBL)
 - Extra feauture of showing image and playing sound can be configured in dnsbl.php
 ## Requirements
 - Roundcube 1.6.8 or higher
-- PHP 8.1 or higher
 
 ## Installation
 
