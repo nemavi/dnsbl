@@ -8,8 +8,7 @@ This is a Roundcube plugin to check users logging in from DNS Blacklists (DNSBL)
 - Blocks login attempts from IPs listed in DNSBLs.
 - Allows configuring a custom list of DNSBLs, whitelist, and blacklist IP addresses.
 - Fully configurable using a `config.inc.php` file for easy management.
-- Supports localization for multilingual environments.
-
+- Extra feauture of showing image and playing sound can be configured in dnsbl.php
 ## Requirements
 - Roundcube 1.6.8 or higher
 - PHP 8.1 or higher
@@ -22,3 +21,7 @@ You can install the plugin via Composer by running:
 
 ```bash
 composer require roundcube/dnsbl
+### 1. Install manual
+Clone this git to /roundcube_root/plugins/dnsbl
+
+And add dnsbl to main config file plugin activation
